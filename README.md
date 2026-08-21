@@ -1,7 +1,5 @@
 # WattWise (A-Buddy) ⚡
 
-![WattWise Banner](docs/preview.png)
-
 > **Solving today, saving tomorrow.**  
 > An iOS application designed to help shared living and rusun residents manage electricity consumption by converting monthly budgets into daily kWh limits, tracking device-level usage, and preventing unexpected overspending.
 
