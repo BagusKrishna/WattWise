@@ -45,9 +45,9 @@ In shared-living spaces, this challenge is compounded: unclear individual usage 
 ## 👥 Team A-BUDDY
 
 - **Gede Bagus Krishnanditya Merta** — Developer
-- **Amalia**
-- **Auliah**
-- **Dody**
+- **Amalia Sandi Alzahrah ** - Collaborate in research
+- **Rezky auliah mahda** - Collaborate in research
+- **Dody Adi Sancoko** - Collaborate in research
 
 ---
 
